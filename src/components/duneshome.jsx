@@ -1,9 +1,4 @@
 import { Canvas } from "@react-three/fiber";
-import {
-  OrthographicCamera,
-  PresentationControls,
-  Sky,
-} from "@react-three/drei";
 import React, { useState, useEffect } from "react";
 import { useLoader } from "@react-three/fiber";
 import { GLTFLoader } from "three/examples/jsm/Addons.js";
@@ -50,24 +45,24 @@ export function DunesStory() {
     <>
       <div>
         <Canvas style={{ position: "fixed", left: "0", outline: "none" }}>
-          <OrthographicCamera
+          {/* <OrthographicCamera
             position={[0, scrollY * 2.5, 0]}
             rotation={[0.3 + -scrollY * 0.03, 0, 0]}
-          >
-            <Sky
+          > */}
+            {/* <Sky
               distance={450000}
               sunPosition={[0.5, -0.01, 0]}
               inclination={0}
               azimuth={0.25}
               turbidity={10}
-            />
+            /> */}
             <directionalLight rotation={Math.PI * 0.5} />
             <primitive
               object={model.scene}
               scale={[2, 2, 2]}
               position={[0, -5, -100]}
             />
-          </OrthographicCamera>
+          {/* </OrthographicCamera> */}
         </Canvas>
         <div style={{ position: "relative" }}>
           <h1 className="header-text">The Imperial Dunes</h1>
