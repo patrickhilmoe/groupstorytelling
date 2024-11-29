@@ -19,8 +19,8 @@ function App() {
       <Router>
         <Routes>
           <Route exact path="/" element={<Home />} />
-          <Route exact path="/dunesstory" element={<DunesStory />} />
-          <Route exact path="/cpstory" element={<CrystalpunkStory />} />
+          <Route path="/dunesstory" element={<DunesStory />} />
+          <Route path="/cpstory" element={<CrystalpunkStory />} />
         </Routes>
       </Router>
     </>

@@ -1,4 +1,9 @@
 import { Canvas } from "@react-three/fiber";
+// import {
+//   OrthographicCamera,
+//   PresentationControls,
+//   Sky,
+// } from "@react-three/drei";
 import React, { useState, useEffect } from "react";
 import { useLoader } from "@react-three/fiber";
 import { GLTFLoader } from "three/examples/jsm/Addons.js";
