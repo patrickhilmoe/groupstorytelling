@@ -1,4 +1,4 @@
-// notes: css for the general story telling headers to make changes easier
+/* notes: css for the general story telling headers to make changes easier */
 
 * {
   margin: 0;
@@ -9,6 +9,7 @@ body {
   font-family: "Poppins", serif;
   font-weight: 400;
   font-style: normal;
+  background-color:  #f0f2f4;
 }
 
 .storylayout {
@@ -35,7 +36,6 @@ body {
   margin-top: 50px;
   /* box-shadow: 0px 0px 25px 25px rgba(55,54,51, 0.3);
   background-color: rgba(55,54,51, 0.3); */
-  color: #b3b3b3;
 }
 
 .story:nth-child(odd)
@@ -50,6 +50,7 @@ body {
 .split {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  margin: 90px;
 }
 
 .column {
@@ -94,6 +95,40 @@ body {
   align-content: center;
   margin: 40px;
 }
+
+.heading {
+  position: sticky;
+  top: 0px;
+  background-color: #778899;
+  padding: 30px 0px;
+}
+
+.sticky {
+  position: sticky;
+  top: 30px;
+}
+
+.botspace {
+  margin-bot: 20px;
+}
+
+.dunesbtn {
+  background-color: #ffdd99;
+  margin-left: 300px;
+  color: #666600;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.cpbtn {
+  background-color: #ff66ff;
+  margin-left: 45px;
+  color: #0059b3;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
 
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
