@@ -38,6 +38,10 @@ body {
   background-color: rgba(55,54,51, 0.3); */
 }
 
+.story p {
+  line-height: 1.8;
+}
+
 .story:nth-child(odd)
 {
     justify-content: flex-end;
@@ -99,7 +103,7 @@ body {
 .heading {
   position: sticky;
   top: 0px;
-  background-color: #778899;
+  background-color: #c5ccd3;
   padding: 30px 0px;
 }
 
@@ -128,6 +132,9 @@ body {
   font-weight: bold;
 }
 
+.centerheader {
+  text-align: center;
+}
 
 
 /* :root {

@@ -1,15 +1,8 @@
-# Narrative App
+# Narrative Session Recap
 
-Collection of improv story telling stories
+This is a collection of stories created in Dungeons and Dragons
 
-Goals:
-sections based on different stories
-    having a shorter version of the stories and a longer version. using 'display block none' toggling
-        the short/long story toggle stays at the top of the page when scrolling down
-threejs to add depth to pages
 
-Malkar campaign
-Crystalpunk campaign
-
+**notes**
 threejsfiber version
 npm install three@0.166 @react-three/fiber@8.16

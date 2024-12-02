@@ -10,10 +10,6 @@ export function MainPage() {
   const [toggle, setToggle] = useState("non-visible");
 
   // todo update the Readme file
-  // todo spread out the page to make more negative space
-  // todo pretty up the buttons for moving to different part of page
-  // todo add crystalpunk recap
-  // todo make the buttons sticky to keep at the top of page
   // * it would be cool to have an "offcanvas" with an Appendix
 
   // toggle text to show more or less
@@ -30,7 +26,7 @@ export function MainPage() {
           <a href="#dunes" className="btn dunesbtn">
             The Imperial Dunes
           </a>
-          <a href="#dunes" className="btn cpbtn">
+          <a href="#cp" className="btn cpbtn">
             Crystalpunk
           </a>
         </div>
@@ -57,11 +53,33 @@ export function MainPage() {
           >
             See More / See Less
           </button>
+          <p id="cp"></p>
+          <br />
+          <br />
+          <br />
+          <br />
+          <h2 className="centerheader">Crystalpunk</h2>
+          <section className="story">
+            <h4>Session 0/1</h4>
+            <p>
+              Individuals come together at the Crimson Piston's warehouse. They
+              bump into a Kobold dealer on the way to clear out mines.{" "}
+              <span className={toggle}>
+                They are invited to be apart of a pyramid scheme. After parting
+                with the dealer, they try selling to law enforcement.
+              </span>{" "}
+              They make their way through the tunnels of the mine. Fighting gas
+              creatures and discovering ancient ruins.
+            </p>
+          </section>
           <p id="dunes"></p>
           <br />
           <br />
+          <br />
+          <br />
+          <h2 className="centerheader">The Imperial Dunes</h2>
           <section className="story">
-            <h4>Battle in Al'Haram Part 4 11/18/24</h4>
+            <h4>Battle in Al'Haram Part 4 (11/18/24)</h4>
             <p>
               The Guidance Guys fight and defeat the two 20ft tall incetoids
               gods in the light and dark triangle room.
@@ -71,18 +89,17 @@ export function MainPage() {
                 Castor deal lots of damage. Kho pummles and shoots Mei'Wren.
                 Castor casts Necrotic touch and shoots Ra'Tsun. Kho shoots the
                 glass between the group and Alatesh and shatters it.
-              </span>
-              And confront Al'Atesh and defeat him.
+              </span>{" "}
+              They confront Al'Atesh and defeat him.
               <span className={toggle}>
-                Ahst pushes Alatesh away from the sword with eldrich blast and
+                Ahst pushes Al'Atesh away from the sword with eldrich blast and
                 pushes sword back into place. Alatesh pulls the sword out
                 effortlessly. He rises into the air and shoots firey beams of
                 force at the party. The earth splits progressively creating deep
-                cracks and holes with screams eminating from them. Kho gets
-                knocked down by 5 blasts. Castor gets knocked down from an
-                opportunity attack. Quinn heals to get everyone back up.
+                cracks with screams eminating from them and a portal begins to appear near the battle. Kho gets
+                knocked down by 5 blasts. Castor gets knocked down trying to fly from Al'Atesh. Quinn heals to get everyone back up.
                 Al'Atesh decends on Quinn, bends him at the neck and stabs the
-                Blade of Endless Warlords into Quinn's face. Kho punchs Al'Atesh
+                Blade of Endless Warlords into his face. Kho punchs Al'Atesh
                 with low impact. Al'Atesh grabs Kho and drops him into the
                 crevaase. Castor flys and catches him. Al'Atesh attacks Castor,
                 knocking him out. Quinn heals Castor and turns invisible.
@@ -90,19 +107,19 @@ export function MainPage() {
                 stabs him with the Sword. Ahst drops a Sickening Ray on top of
                 Al'Atesh and the invisible Quinn. Grey appears at a portal the
                 was growing. Ahst gets knocked out by Al'Atesh with his 5 blasts
-                and slides to the edge of a pit. Castor blasts Al'Atesh with a
-                Guiding Bolt. He is taken out and tips over and falls into the
+                and slides to the edge of a crag. Castor blasts Al'Atesh with a
+                Guiding Bolt, knocking him out. He tips over and falls into the
                 pit. Kho and Castor fall/fly down and captures Al'Atesh with the
                 'pokeball'.
-              </span>
+              </span>{" "}
               Tenticles crash out from the splits in the ground.
               <span className={toggle}>
                 Castor flies toward the dunes carrying Kho and Quinn. Kho,
-                Quinn, and Ahst get grabbed by the tenticles. Ahst says Mox,
-                Mox, Mox, summoning his patron. He takes the 'pokeball' from Kho
-                and doesn't free Ahst and bamphs away. The party escapse the
+                Quinn, and Ahst get grabbed by the tenticles. Ahst says "Mox,
+                Mox, Mox" summoning his patron. Who takes the 'pokeball' from Kho
+                and doesn't free Ahst and bamphs away. The party narrowly escape the
                 tenticles and run free from the shattering ground.
-              </span>
+              </span>{" "}
               A gigantic black twisted serpent erupts from the fissures and
               flies into the darknress of space.
               <br />
@@ -139,13 +156,13 @@ export function MainPage() {
             </p>
           </section>
           <section className="story">
-            <h4>Battle in Al'Haram Part 3 11/11/24</h4>
+            <h4>Battle in Al'Haram Part 3 (11/11/24)</h4>
             <p>
               The party fights against 4 mages a cavern filled with darkness.
               And defeats them.
               <span className={toggle}>
                 Selmura of the Rivers. Melva of the Light. Velcor of the Winds.
-                Tekvin of the Sands. Ahst is hit with immolation and lights up
+                Tekvin of the Sands. Ahst is hit with Immolation and lights up
                 pitch dark room with light. It gets snuffed out after Stien
                 bicects Melva. Velcor casts lightning bolt on 3 people twice!
                 Selmura makes a mud area the restrains Kho, Ahst, and Quinn.
@@ -159,7 +176,7 @@ export function MainPage() {
                 Selmura, who crumbles apart in chuncks. Stein stacks up melee
                 hits, which Tekvin is resistant to and Castor defeats Tekvin
                 with an arrow.
-              </span>
+              </span>{" "}
               Kho scouts down stairs from the canvern leading to a wide space
               filled with sand, and finds a temple entrance.
               <span className={toggle}>
@@ -167,14 +184,14 @@ export function MainPage() {
                 the knee down. Everyone meets at a temple entrance made of
                 obsidian. Intercepted by creatures with leather wings and heads
                 with a mockery of a human face.
-              </span>
+              </span>{" "}
               The party narrowly escape down into the temple. Leading to a
               corridor
               <span className={toggle}>
                 Passing a chininous creture with insectoid legs, they go down
                 the hallway to a closed obsidian doorway. Voices can be heard on
                 the otherside.
-              </span>
+              </span>{" "}
               The doors open to reveal two 20 foot tall creatures in a
               triangular room. A long and tall glass pane at the end of the room
               has the Blade of Endless Warlords buried point first into the
@@ -183,7 +200,7 @@ export function MainPage() {
             </p>
           </section>
           <section className="story">
-            <h4> Battle in Al'Haram Part 2 11/4/24</h4>
+            <h4> Battle in Al'Haram Part 2 (11/4/24)</h4>
             <p>
               The Guidance Guys fight and defeat an anti magic golem Tor.{" "}
               <span className={toggle}>
@@ -213,7 +230,7 @@ export function MainPage() {
             </p>
           </section>
           <section className="story">
-            <h4>Battle in Al'Haram Part 1 10/28/24</h4>
+            <h4>Battle in Al'Haram Part 1 (10/28/24)</h4>
             <p>
               The pocket dimension has been pulled out in to this dimension.{" "}
               <span className={toggle}>
