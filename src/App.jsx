@@ -16,7 +16,7 @@ import { MainPage } from "./components/mainpage.jsx";
 function App() {
   return (
     <>
-      {/* <Header/> */}
+      <Header/>
       <Router>
         <Routes>
           {/* <Route exact path="/" element={<Home />} /> */}

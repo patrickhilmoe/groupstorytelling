@@ -10,6 +10,7 @@ export function MainPage() {
   const [toggle, setToggle] = useState("non-visible");
 
   // todo update the Readme file
+  // todo adding character descriptions at top of story
   // * it would be cool to have an "offcanvas" with an Appendix
 
   // toggle text to show more or less
@@ -22,14 +23,14 @@ export function MainPage() {
   return (
     <>
       <div>
-        <div className="heading">
+        {/* <div className="heading">
           <a href="#dunes" className="btn dunesbtn">
             The Imperial Dunes
           </a>
           <a href="#cp" className="btn cpbtn">
             Crystalpunk
           </a>
-        </div>
+        </div> */}
         <section className="conatiner">
           <div className="split">
             <div className="header">
@@ -46,21 +47,88 @@ export function MainPage() {
           </div>
         </section>
         <div>
-          <button
-            type="button"
-            className="btn btn-secondary sticky"
-            onClick={toggleEvent}
-          >
-            See More / See Less
-          </button>
+          <div className="seemorebtn sticky">
+            <button
+              type="button"
+              className="btn btn-secondary"
+              onClick={toggleEvent}
+            >
+              See More / See Less
+            </button>
+          </div>
+
+          <p id="harbinger"></p>
+          <br />
+          <br />
+          <br />
+          <br />
+          <h2 className="centerheader">The Harbinger</h2>
+
+          <section className="story">
+            <h4>Landing on the Prison Island (12/9/24)</h4>
+            <p>
+              A group of prisoners were being transferred from Alterkaz to a
+              prison island.
+              <span className={toggle}>
+                The prisoners attempt a prison break. With the help of Tosh of
+                the burning hand and a giggling woman, Theodora, Ane, and Cord
+                attempt and fail to fight the guards, while Gumption bided his
+                time to see who got the upper hand.
+              </span>{" "}
+              Only the few prisonsers washed up on the beach after communicating
+              with a creature in the depths of the water after the ship cracked
+              in half and sank. Guards on griffons were fought and defeated.
+              <span className={toggle}>
+                Before encountering the guards, they met a kenku. After
+                defeating the guards, the kenku ate one of the guards brains.
+              </span>{" "}
+              The group discovers a village of Lizardfolk and enlist the help of
+              one of them.
+            </p>
+          </section>
+
+          {/* CRYSTALPUNK */}
           <p id="cp"></p>
           <br />
           <br />
           <br />
           <br />
           <h2 className="centerheader">Crystalpunk</h2>
+
           <section className="story">
-            <h4>Session 0/1</h4>
+            <h4>Death Race (12/2/24)</h4>
+            <p>
+              The crew decides on a Logo and to compete in the Death Race. They
+              will compete in the high level and boost an armored vehicle.
+              <span className={toggle}>
+                The vehicle they are taking belongs to the second place winner
+                of the Death Race Razore. On the drive to Razore's place, Bones
+                makes a trip to a store run by Renette to buy oven mitts. Bones
+                and Jix distract the guards Logaine and Ives and start becoming
+                friends. Sk8erboi climbs into a window with the help of Jix.
+                While Sk8erboi gets the armored car, Jix backs up into Ives and
+                drive away, and Sk8erboi follows during the confusion. They lay
+                low and Sk8erboi repaints the stolen vehicle with the help of
+                Zorg with inspiration of Barnaby's wolf likeness. It is named
+                the crimp mobile.
+              </span>{" "}
+              They enter the race and try sabotaging competing vehicles.
+              <span className={toggle}>
+                Jix tangles agrappling hook into the dwarf team's and Bones's
+                familiar is snuck into the bugbear's. But don't succeed against
+                an orc team. When the race starts, the Dwarves break down
+                immediately. The remaining 3 were faced with lava pits, a Kobold
+                ambush, and a spined devil. The orcs are knocked out during a
+                jump with Jix on top. Bones caused it to twist, Jix jumps off
+                and lands on Sk8erboi's Floating Disk. The bugbears trail behind
+                after getting hit by a Kobold and the spined devil.
+              </span>{" "}
+              Against the odds, they win the race!
+            </p>
+          </section>
+
+          <section className="story">
+            <h4>Clearing Mines</h4>
             <p>
               Individuals come together at the Crimson Piston's warehouse. They
               bump into a Kobold dealer on the way to clear out mines.{" "}
@@ -72,12 +140,13 @@ export function MainPage() {
               creatures and discovering ancient ruins.
             </p>
           </section>
+          {/* LORDS OF WAR */}
           <p id="dunes"></p>
           <br />
           <br />
           <br />
           <br />
-          <h2 className="centerheader">The Imperial Dunes</h2>
+          <h2 className="centerheader">The Lords of War</h2>
           <section className="story">
             <h4>Battle in Al'Haram Part 4 (11/18/24)</h4>
             <p>
@@ -96,34 +165,35 @@ export function MainPage() {
                 pushes sword back into place. Alatesh pulls the sword out
                 effortlessly. He rises into the air and shoots firey beams of
                 force at the party. The earth splits progressively creating deep
-                cracks with screams eminating from them and a portal begins to appear near the battle. Kho gets
-                knocked down by 5 blasts. Castor gets knocked down trying to fly from Al'Atesh. Quinn heals to get everyone back up.
-                Al'Atesh decends on Quinn, bends him at the neck and stabs the
-                Blade of Endless Warlords into his face. Kho punchs Al'Atesh
-                with low impact. Al'Atesh grabs Kho and drops him into the
-                crevaase. Castor flys and catches him. Al'Atesh attacks Castor,
-                knocking him out. Quinn heals Castor and turns invisible.
-                Al'Atesh flys next to Quinn, seeing through the invisibility and
-                stabs him with the Sword. Ahst drops a Sickening Ray on top of
-                Al'Atesh and the invisible Quinn. Grey appears at a portal the
-                was growing. Ahst gets knocked out by Al'Atesh with his 5 blasts
-                and slides to the edge of a crag. Castor blasts Al'Atesh with a
-                Guiding Bolt, knocking him out. He tips over and falls into the
-                pit. Kho and Castor fall/fly down and captures Al'Atesh with the
-                'pokeball'.
+                cracks with screams eminating from them and a portal begins to
+                appear near the battle. Kho gets knocked down by 5 blasts.
+                Castor gets knocked down trying to fly from Al'Atesh. Quinn
+                heals to get everyone back up. Al'Atesh decends on Quinn, bends
+                him at the neck and stabs the Blade of Endless Warlords into his
+                face. Kho punchs Al'Atesh with low impact. Al'Atesh grabs Kho
+                and drops him into the crevaase. Castor flys and catches him.
+                Al'Atesh attacks Castor, knocking him out. Quinn heals Castor
+                and turns invisible. Al'Atesh flys next to Quinn, seeing through
+                the invisibility and stabs him with the Sword. Ahst drops a
+                Sickening Ray on top of Al'Atesh and the invisible Quinn. Grey
+                appears at a portal the was growing. Ahst gets knocked out by
+                Al'Atesh with his 5 blasts and slides to the edge of a crag.
+                Castor blasts Al'Atesh with a Guiding Bolt, knocking him out. He
+                tips over and falls into the pit. Kho and Castor fall/fly down
+                and captures Al'Atesh with the 'pokeball'.
               </span>{" "}
               Tenticles crash out from the splits in the ground.
               <span className={toggle}>
                 Castor flies toward the dunes carrying Kho and Quinn. Kho,
                 Quinn, and Ahst get grabbed by the tenticles. Ahst says "Mox,
-                Mox, Mox" summoning his patron. Who takes the 'pokeball' from Kho
-                and doesn't free Ahst and bamphs away. The party narrowly escape the
-                tenticles and run free from the shattering ground.
+                Mox, Mox" summoning his patron. Who takes the 'pokeball' from
+                Kho and doesn't free Ahst and bamphs away. The party narrowly
+                escape the tenticles and run free from the shattering ground.
               </span>{" "}
               A gigantic black twisted serpent erupts from the fissures and
               flies into the darknress of space.
               <br />
-              <strong>Epilogue: </strong>
+              {/* <strong>Epilogue: </strong>
               <br />
               Quinn
               <br />
@@ -152,7 +222,7 @@ export function MainPage() {
               <br />
               Stein
               <br />
-              ???
+              ??? */}
             </p>
           </section>
           <section className="story">

@@ -21,16 +21,21 @@ export function Header() {
                   <img src="/oroborous3.jpg" alt="oroboros image" width="50px" height="30px" />
                 </a>
               </li>
-              {/* <li className="nav-item">
-                <a className="nav-link" href="/dunesstory">
+              <li className="nav-item">
+                <a href="#dunes" className="btn dunesbtn">
                   The Imperial Dunes
                 </a>
-              </li> */}
-              {/* <li className="nav-item">
-                <a className="nav-link" href="/cpstory">
+              </li>
+              <li className="nav-item">
+                <a href="#cp" className="btn cpbtn">
                   CrystalPunk
                 </a>
-              </li> */}
+              </li>
+              <li className="nav-item">
+                <a href="#harbinger" className="btn harbtn">
+                  The Harbinger
+                </a>
+              </li>
             </ul>
           </div>
         </div>

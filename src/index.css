@@ -109,7 +109,13 @@ body {
 
 .sticky {
   position: sticky;
-  top: 30px;
+  top: 100px;
+}
+
+.seemorebtn {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10%;
 }
 
 .botspace {
@@ -118,7 +124,7 @@ body {
 
 .dunesbtn {
   background-color: #ffdd99;
-  margin-left: 300px;
+  margin: 10px;
   color: #666600;
   font-size: 16px;
   font-weight: bold;
@@ -126,8 +132,16 @@ body {
 
 .cpbtn {
   background-color: #ff66ff;
-  margin-left: 45px;
+  margin: 10px;
   color: #0059b3;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.harbtn {
+  background-color: #00b300;
+  margin: 10px;
+  color: #4d4d4d;
   font-size: 16px;
   font-weight: bold;
 }
