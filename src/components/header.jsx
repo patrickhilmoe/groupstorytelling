@@ -23,7 +23,7 @@ export function Header() {
               </li>
               <li className="nav-item">
                 <a href="#dunes" className="btn dunesbtn">
-                  The Imperial Dunes
+                  The Lords of War
                 </a>
               </li>
               <li className="nav-item">

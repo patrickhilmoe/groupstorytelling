@@ -65,6 +65,31 @@ export function MainPage() {
           <h2 className="centerheader">The Harbinger</h2>
 
           <section className="story">
+            <h4>Traveling Deeper on the Island (12/16/24)</h4>
+            <p>
+              The group of unlikely allies meet another stranded prisoner Karlin
+              and head towards a volcano with their Lizardfolk guide Razertooth.
+              <span className={toggle}>
+                Everyone hides in the jungle as Metronian guards fly in on
+                griffins and question Razortooth.
+              </span>
+              They rest at Razortooth's village and individually cause havok in
+              the town.
+              <span className={toggle}>
+                Theodora creeps into a tent, crawling on the walls. Hypnotizes
+                and scares a child. Karlin uses magic to slice a household apart
+                and take valuables. Gumption attempts to learn Liardfolk
+                spells/riguals from razortooth. Cord takes incantrium from the
+                shaman's hut. Sketchers inhabits a Lizardfolk body.
+              </span>
+              The group continues on and meet a Metronian with a pseudodragon,
+              who recognizes Cord and a battle ensues. Resulting in his defeat.
+              Getting near their desination, the group gets to a thriving
+              Lizardfolk city decorated in gold.
+            </p>
+          </section>
+
+          <section className="story">
             <h4>Landing on the Prison Island (12/9/24)</h4>
             <p>
               A group of prisoners were being transferred from Alterkaz to a
@@ -77,9 +102,9 @@ export function MainPage() {
               </span>{" "}
               Only the few prisonsers washed up on the beach after communicating
               with a creature in the depths of the water after the ship cracked
-              in half and sank. Guards on griffons were fought and defeated.
+              in half and sank. Guards on griffins were fought and defeated.
               <span className={toggle}>
-                Before encountering the guards, they met a kenku. After
+                Before encountering the guards, they met a kenku named Sketchers. After
                 defeating the guards, the kenku ate one of the guards brains.
               </span>{" "}
               The group discovers a village of Lizardfolk and enlist the help of
