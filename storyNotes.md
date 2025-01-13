@@ -106,4 +106,32 @@ t'let twan
 seeth manigold - crispy zombie now
 snake staff, black feathers in pockets
 
-kowali kall
+kowali kall - Lizard city gold guilded city
+
+# 1/6 game notes
+
+Razortooth goes to a main ziggurat
+stole a gold brick from a road - gumption took it
+T'latoan leader in the ziggurat
+Tepit - Volcaino
+Invaders slaying primodial beasts in the volcano and lizardfolk
+
+A druid could commune with powerful spirits at a nexus point in the volcano. True of hearts
+iridecent marble - get a +1 weapon
+Zalwa - Lizardfolk that will be joining us - feather "dreads" tied back into pony tails
+map: ziggurat - big stone - circle - volcano
+
+group buys weapons and magical items
+
+compy dinosaurs running around 
+
+going to the bone yard where dinosaurs are laid to rest. talking with a druid with a robot kink
+quetzalcoatlus animtated dead used to fly to the volcano
+
+3 points of exhustion -15 movement , -6 skill check
+
+elf ranger - Guiles McArthur, human paladin - Carnilious Caid, human wizard Lisa Fay, human fighter - Adrian Dell, human cleric - Sofia Doe
+this group of heros at the volcano, tossing a lizardfolk into the volcano lava
+Ane Kilbiter wanted to fly the quetzalcoatlus into the party of Heros.
+
+Theodora flys by Sofia Doe the Cleric and shifts from a bat to her true form.  Adrian the fighter turns into a creature and crits Cord and knocks him out. Karlin brings Cord back and he plant grow a safe path growing mushrooms, Adrian knocks him back down. Ane gets hit by a smite and gets knocked down. Lisa makes a wall of water, Ane slashes her in the face and she loses concentration on the wall of water. Karlin gets shot by Guiles, Karlin misty steps and casts blink. Ane throws a spear at Lisa knocks her out, Guiles jumps and brings her back up. Karlin hits her with repelling eldrich blast, knocking her out and sending her of an edge into a lava pit. Sofia runs to the edge, uses healing word to bring Lisa back to conciousness. Adrian runs to chase after Ane. Theodora throws healing potions at Cord, as he attempts to shift to gaseous form. everyone almost gets eaten by a pond construct. Karlin kills it and saves everyone.

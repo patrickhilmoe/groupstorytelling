@@ -65,6 +65,44 @@ export function MainPage() {
           <h2 className="centerheader">The Harbinger</h2>
 
           <section className="story">
+            <h4>Adventuring toward the Volcano! (1/5/25)</h4>
+            <p>
+              The party is given a proposition to protect the volcano, their
+              spiritual hub, from interlopers.
+              <span className={toggle}>
+                A lizard folk named Zalwa will accompany them from the shadows,
+                informing on their progress to the leader T'latoan.
+              </span>
+              They do some shopping and raise a quetzacoatlus from the dead to
+              fly them to the volcano.
+              <span className={toggle}>
+                Theodora gets a shield, and Karlin gets a cursed jewel in a box.
+              </span>
+              The reanimated creture is crashed into a party of Heros and a
+              battle ensues.
+              <span className={toggle}>
+                They decide to go to a dinosaur graveyard and convince the
+                presiding druid with an infatuation with contruct to assit them.
+                Ane encourages the idea to crash into a group of five Heros on
+                the side of the mountain. Theodora fights and retreats to the
+                edge of a lava pit. Gumption keeps his distance and shoots from
+                afar. Cord gets knocked down a couple times and escapes in a
+                vapor form. Ane goes head to head with the fighter and the
+                caster, escaping down a path between plant growth. Karlin uses
+                eldritch power to knock heros into the lava pit and blinks away.
+              </span>
+              Escaping just barely, everyone is nearly drowned by a jewelry
+              encased construct in a pond.
+              <span className={toggle}>
+                Individually, people are drawn into the shallow pool and
+                disappearing. Karlin resists and is greeted by a gold and jewel
+                covered creature. He quickly ends the creature saving the
+                others.
+              </span>
+            </p>
+          </section>
+
+          <section className="story">
             <h4>Traveling Deeper on the Island (12/16/24)</h4>
             <p>
               The group of unlikely allies meet another stranded prisoner Karlin
@@ -104,8 +142,9 @@ export function MainPage() {
               with a creature in the depths of the water after the ship cracked
               in half and sank. Guards on griffins were fought and defeated.
               <span className={toggle}>
-                Before encountering the guards, they met a kenku named Sketchers. After
-                defeating the guards, the kenku ate one of the guards brains.
+                Before encountering the guards, they met a kenku named
+                Sketchers. After defeating the guards, the kenku ate one of the
+                guards brains.
               </span>{" "}
               The group discovers a village of Lizardfolk and enlist the help of
               one of them.
