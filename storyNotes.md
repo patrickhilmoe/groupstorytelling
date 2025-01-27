@@ -97,7 +97,7 @@ zine chamaka tologi toli - give me guidance
 
 Riani - god of cunning
 Nuat - endurance, strength
-Ensika - lust, vencence
+Esika - lust, vencence
 Tegket - hunt, magic
 Toli - wrath, justice
 
@@ -128,10 +128,100 @@ compy dinosaurs running around
 going to the bone yard where dinosaurs are laid to rest. talking with a druid with a robot kink
 quetzalcoatlus animtated dead used to fly to the volcano
 
-3 points of exhustion -15 movement , -6 skill check
+elf ranger - Guiles McArthur, 
+human paladin - Carnilious Caid, 
+human wizard - Lisa Fay, 
+human fighter - Adrian Dell, 
+human cleric - Sofia Doe
 
-elf ranger - Guiles McArthur, human paladin - Carnilious Caid, human wizard Lisa Fay, human fighter - Adrian Dell, human cleric - Sofia Doe
 this group of heros at the volcano, tossing a lizardfolk into the volcano lava
 Ane Kilbiter wanted to fly the quetzalcoatlus into the party of Heros.
 
 Theodora flys by Sofia Doe the Cleric and shifts from a bat to her true form.  Adrian the fighter turns into a creature and crits Cord and knocks him out. Karlin brings Cord back and he plant grow a safe path growing mushrooms, Adrian knocks him back down. Ane gets hit by a smite and gets knocked down. Lisa makes a wall of water, Ane slashes her in the face and she loses concentration on the wall of water. Karlin gets shot by Guiles, Karlin misty steps and casts blink. Ane throws a spear at Lisa knocks her out, Guiles jumps and brings her back up. Karlin hits her with repelling eldrich blast, knocking her out and sending her of an edge into a lava pit. Sofia runs to the edge, uses healing word to bring Lisa back to conciousness. Adrian runs to chase after Ane. Theodora throws healing potions at Cord, as he attempts to shift to gaseous form. everyone almost gets eaten by a pond construct. Karlin kills it and saves everyone.
+
+# 1/13 game notes
+
+poisoner tag
+
+green ring
+
+amythist 100gp, 10 azerite 10gp, 3 carmilian 50gp, 4 citrin 50gp, 2corals 100gp, 2 garnet 100gp, 5 gold rings 50gp, jewelery 500gp, green - red - blue
+
+Cord. fish like creature at pond. fronds of feathers on shoulders. twirled dreads on top of head going past shoulders over the chest with jewels in hair. She said the conclave had plans. she shows Cord holding sword of burning flame. in front of gnarled tree with druidic runes burning. the hags on the ground defeated. He is pulled from the vision, standing by the edge of the shallow pond. Sees the alternate self reflected on the surface; sword in hand, flames blazing.
+
+gumption. noah. a lodus wolf. father fell to illness. mother to hunger. brisly of lodus wolf. shown vision  of him being on a throne of riches.
+
+Ane. little fuzzie's fate was not great. sisters killed the parents. shown a vision of Ane as a full height ripped dragonborn with wings. with proud parents still alive and getting vengence on the sisters.
+
+Karlin. Seely court was on his side. now down cast. He wants true power. Shown a vision of Metreon getting torn down. And Karlin weilding the power destroying the city. 
+
+Theodora. Orc in plain clothes sharpening a battle axe. its Theogar! she wants to save him from his circular prison in the hells. Shows her saving him, killing devils and him confessing his love for her. blood bride.
+
+after long rest. heros are nearby. Karlin takes on of the zombie heads and casts a vision spell through it. Gumption runs toward the Heros to try to lure them to the Lizardfolk city. He tosses the head at the heros and Karlin cast Hunger of Hadar on top of the heros. Gumption hides. Theodora tries to surpise attack Fay the wizard. Theodora pulls Fay into the Hunger of Hadar. restrains her, and tries biting her. Fay gets pulled out and casts a column of water around Theodora. Theodora lauches up and out with ring of swimming. Lands on Fay stabbing and branding her, marking her location. 
+
+crystal blue orb, arcane latices - drift globe - Cord
+wand with dual spirals - wand of secrets - Theodora
+potion - cold resitance
+iron chest with bag of holding - Karlin
+bracers of defence - Ane
+wand with flames on it - wand of fire balls - Ane
+ring with an eyeball on it - ring of xray vision - Gumption
+rook chest piece - instant fortress - 2 floors 20 x 30 - Cord
+two stones fall out. - sending stones - Karlin
+backpack - haversack 200lbs of material
+potion - potion of longevity - Karlin
+hat of ... wizerds - Cord
+ring of shooting stars - gumption
+figurine the obsidian steed - theodora
+oil of sharpness - Ane
+
+firbolg by a waterfall
+lewis awlin
+
+squirel
+
+vines and dirt creatures came out at the power of the Hags!
+
+# 1/20 game notes
+
+inspiration!
+
+2 points of exhustion -10 movement , -4 skill check
+
+Aspergillus - trigger word - The Grand Poobaa - tower name
+
+The group takes a long rest in the instant fortress. Theodora shape shifts into a wolf. Gumption locks her on top and she jumps off, failing a dex save. 
+
+25,000 gold value items from lake
+
+They go into the volcano. 3 metronians are talking with a lava elemental. The party is 300 feet away and run toward them while the elemental squashes the metronians. Glob the elemental.
+
+Hugo Austin - Adept of the Ring of Brass - a surveyor
+-now a zombie for an hour with 1 hitpoint.
+
+crystal ball of true seeing
+
+each section has a creature drinking from a lake approaching the door. dwarf, elf, dragon, dwarf
+kor - beware the lure 3
+thal - knowledge has drowned the wise 1
+mor - the circle is complete 4
+vel - desire is the thread 2
+
+kor was not to be found, mor could not find anyone to drink with. mor alone, because kor, thol and vel already left. vel alone.
+
+3 separate doors that lead from central platform with roots leading into the rooms
+
+Karlen and Gumption unlock a door and Karlen
+
+50 feet deep room with pews, pedestal with bowl of water
+
+large face on a door in the back. 12 imbedded crystals above the door. door animates. 
+
+traveled the seas, endetured and betrayed
+freed by a force, 
+
+3 doctors say paul is their brother. paul says he has no brothers
+
+adult green dragon in the center of a whirlpool that ages things quickly that touch it.
+
+mezrin - archfey master of illusions

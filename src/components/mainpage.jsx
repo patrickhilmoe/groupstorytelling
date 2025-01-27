@@ -65,6 +65,62 @@ export function MainPage() {
           <h2 className="centerheader">The Harbinger</h2>
 
           <section className="story">
+            <h4>Breaking the First Lock (1/20/25)</h4>
+            <p>
+              After resting, they crew venture into the volcano and helps a
+              golem, who is guarding a door, defeat three Metronian wizards.
+              <span className={toggle}>
+                Gumption shoots the hand of one and the Golem smashes the
+                others. He convices the golem to stop protecting the door by
+                befriending him and everyone plays cards with him.
+              </span>
+              They open the door by solving a riddle of carvings in the door.
+              Inside they see a large circular room with roots extending from
+              the middle down three separate hallways.Each hallway leads to a
+              room with a way to destroy each root.
+              <span className={toggle}>
+                The first room, Karlin nearly single handedly destroys the root
+                source in a room filled with lava. The second room, everyone is
+                locked inside needing to solve tasks and riddles. The third
+                room, holds an imprisoned Seely Court member that agrees to help
+                after having the group play a game against each other.
+              </span>
+              After completing their task, they run out of the canvern as it
+              collapses
+            </p>
+          </section>
+
+          <section className="story">
+            <h4>Another Encounter with the Heros (1/13/25)</h4>
+            <p>
+              Everyone receives visions from the powerful imprisoned being, of
+              what they can have if they succeed breaking the three prison
+              locks.
+              <span className={toggle}>
+                Cord sees his revenge of the Hags that have tormented him.
+                Gumption saw himself on a throne of riches. Ane saw himself with
+                wings and revenge for his parents' demise. Karlin saw himself
+                with his return to powers that can destroy cities, Metreon in
+                particular. Theodora saw herself rescuing her love Theogar from
+                his prison in the hells.
+              </span>
+              The party of heros is seen passing by and in an attempt to lure
+              them to the lizardfolk city, combat begins.
+              <span className={toggle}>
+                Gumption goes toward the heros with a zombie head that Karlin
+                enchants. He tosses to the head at the heros and Hunger of Hagar
+                is cast through the head. Theodora tryes to surpise attack Fay,
+                the wizard and pulls her into the Hadar bubble and bites her.
+              </span>
+              The party narrowly escapes with their lives and the Heros' bag of
+              holding.
+              <span className={toggle}></span>
+              Cord gets lured into a trap by a disembodied voice calling his
+              name.
+            </p>
+          </section>
+
+          <section className="story">
             <h4>Adventuring toward the Volcano! (1/5/25)</h4>
             <p>
               The party is given a proposition to protect the volcano, their
@@ -307,7 +363,7 @@ export function MainPage() {
                 Velcor and takes them out with his bayonet. Selmura knocks Kho
                 and Quinn into the mud. Tekvin turns the mud into stone. Castor
                 and Quinn get half immobolized into the stone. Quinn shatters
-                Selmura, who crumbles apart in chuncks. Stein stacks up melee
+                Selmura, who crumbles apart in chunks. Stein stacks up melee
                 hits, which Tekvin is resistant to and Castor defeats Tekvin
                 with an arrow.
               </span>{" "}

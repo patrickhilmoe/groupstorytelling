@@ -7,6 +7,7 @@ import { Canvas } from "@react-three/fiber";
 import React, { useState, useEffect } from "react";
 import { useLoader } from "@react-three/fiber";
 import { GLTFLoader } from "three/examples/jsm/Addons.js";
+import { FBXLoader } from 'three/examples/jsm/loaders/FBXLoader';
 
 export function DunesStory() {
   const [scrollY, setScrollY] = useState(0);
@@ -45,6 +46,7 @@ export function DunesStory() {
    * * Model
    */
   const model = useLoader(GLTFLoader, "./sand-dune-wide3.glb");
+  const archer = useLoader(FBXLoader, '/Erika_Archer.fbx');
 
   return (
     <>
@@ -53,7 +55,7 @@ export function DunesStory() {
           {/* <OrthographicCamera
             position={[0, scrollY * 2.5, 0]}
             rotation={[0.3 + -scrollY * 0.03, 0, 0]}
-          > */}
+          /> */}
             {/* <Sky
               distance={450000}
               sunPosition={[0.5, -0.01, 0]}
@@ -66,6 +68,12 @@ export function DunesStory() {
               object={model.scene}
               scale={[2, 2, 2]}
               position={[0, -5, -100]}
+            />
+            <primitive
+              object={archer}
+              scale={[.04,.04,.04]}
+              position={[0,0,5]}
+
             />
           {/* </OrthographicCamera> */}
         </Canvas>
