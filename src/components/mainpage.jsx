@@ -1,9 +1,9 @@
 import { Canvas } from "@react-three/fiber";
-// import {
-//   OrthographicCamera,
-//   PresentationControls,
-//   Sky,
-// } from "@react-three/drei";
+import {
+  OrthographicCamera,
+  PresentationControls,
+  Sky,
+} from "@react-three/drei";
 import React, { useState, useEffect } from "react";
 
 export function MainPage() {
@@ -23,6 +23,7 @@ export function MainPage() {
   return (
     <>
       <div>
+        {/* // * sticky header */}
         {/* <div className="heading">
           <a href="#dunes" className="btn dunesbtn">
             The Imperial Dunes
@@ -46,6 +47,7 @@ export function MainPage() {
             </div>
           </div>
         </section>
+        <Canvas></Canvas>
         <div>
           <div className="seemorebtn sticky">
             <button
@@ -63,6 +65,34 @@ export function MainPage() {
           <br />
           <br />
           <h2 className="centerheader">The Harbinger</h2>
+
+          <section className="story">
+            <h4>Fog Harbor Escapades (2/3/25) with Hunters's GM Assistant</h4>
+            <p>
+              The party put a daring plan into action, creating undead decoys to
+              draw the attention of the guards while they made their way to the
+              sewers.
+              <span className={toggle}></span>
+            In the confusion, they have a confrontation in the sewers with Kho, a
+              skilled monk, and Zamiya, a winged serpent.
+              <span className={toggle}></span>
+              They are led through the sewers to be ambushed by 3 hags.
+            </p>
+          </section>
+
+          <section className="story">
+            <h4>To Fog Harbors (1/27/25) with Hunters's GM Assistant</h4>
+            <p>
+              The adventure began as the party fled from an erupting volcano and
+              met with visions from Miranda.
+              <span className={toggle}></span>
+              The party spied on the party of Heros, the 3 hags pursuing Cord.
+              And Glob had a ritual and gotten wings
+              <span className={toggle}></span>
+              They arrive in Fog Harbors and infiltrate a house and a
+              carpenter's shop.
+            </p>
+          </section>
 
           <section className="story">
             <h4>Breaking the First Lock (1/20/25)</h4>

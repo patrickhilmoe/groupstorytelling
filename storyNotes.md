@@ -128,7 +128,7 @@ compy dinosaurs running around
 going to the bone yard where dinosaurs are laid to rest. talking with a druid with a robot kink
 quetzalcoatlus animtated dead used to fly to the volcano
 
-elf ranger - Guiles McArthur, 
+elf ranger - Guiles McArthur,
 human paladin - Carnilious Caid, 
 human wizard - Lisa Fay, 
 human fighter - Adrian Dell, 
@@ -186,8 +186,6 @@ vines and dirt creatures came out at the power of the Hags!
 
 inspiration!
 
-2 points of exhustion -10 movement , -4 skill check
-
 Aspergillus - trigger word - The Grand Poobaa - tower name
 
 The group takes a long rest in the instant fortress. Theodora shape shifts into a wolf. Gumption locks her on top and she jumps off, failing a dex save. 
@@ -225,3 +223,57 @@ freed by a force,
 adult green dragon in the center of a whirlpool that ages things quickly that touch it.
 
 mezrin - archfey master of illusions
+
+# 1/27 game notes
+Stix - goth look
+
+Encatrium Addict - Tag
+
+0 points of exhustion -0 movement , -0 skill check
+
+2 minute passes
+
+meet the creature under the water after failing a con save. last queen of the triton people and 
+
+Abolith is who we are trying to free. The coruppter, red raven, night hag, edritch witch, Miranda. The Dreaming One.
+
+elder being, existed before time. total of 5 kin. born of a sleeping elder god. a being of 4th dimensions and can see into time.
+
+trapped for a millenea. and to consume the other elder gods. Metronian wizards accidentally opened a portal to these beings.
+
+She gains to be The sleeping god
+
+hero are enchanting a fork- blight, a potato-3 fireballs, pages of a book, bear trap - sickening radiance and whrilpool. pellet - spell of polymorph terry
+
+Sketcher is a woodworker in Fog Harbor named Patrick
+
+talroth demon lord is Adrian Dell's patron. who is a dead demon lord. he is cursed with demon's blood.
+
+glob now has devil horns and wings and can fly.
+
+ranger is talking with a cloaked figure with a staff. Ranger was talking with Kho.
+
+# 2/3 game notes
+
+portend- every morning 3 d20. costs a reaction -> 
+
+necklace of detect thoughts
+saddle 
+spell scroll lighting bolt
+cloak of the manta ray
+
+scroll of greater demon
+
+orb scry on mage from black academy. secure perimeter on the city. Scry on Heros, as they bamf to the Grey moors.
+
+dressed up family of zombies to run out of the house. the group splits up and 
+
+3 doors in the excavation pit
+
+poisoned and 20
+
+0 charges of ring of evasion left
+
+man studying a sewer - Arte Ion the Druid
+
+6
