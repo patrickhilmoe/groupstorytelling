@@ -67,14 +67,53 @@ export function MainPage() {
           <h2 className="centerheader">The Harbinger</h2>
 
           <section className="story">
+            <h4>
+              Breaking the Last Lock Part 1 (2/24/25) with Hunters's GM
+              Assistant
+            </h4>
+            <p>
+              The party flies to the last lock located in the ocean. Traps are
+              triggered inside and outside the room. Various members are
+              bewitched and turn on one another. 2 of the three rooms are
+              successfully disarmed and the third room reveals the Guidance Guys
+              inside.
+            </p>
+          </section>
+
+          <section className="story">
+            <h4>Battle against the Heros! (2/17/25)</h4>
+            <p>
+              A battle ensues against the Fearless Adventuring Guild. All but
+              Carneleus is defeated when Grey appears. Ane dies and gets
+              reserected with dragon wings and horns. And the party prepares for
+              breaking the final lock.
+            </p>
+          </section>
+
+          <section className="story">
+            <h4>Breaking the 2nd Lock (2/10/25) with Hunters's GM Assistant</h4>
+            <p>
+              The party then encountered an ornate magical door with matrix-like
+              intersecting lines coursing through its stonework and after
+              successfully entring, they recieve a curse. The group enters one
+              of the three rooms, the door locks behind them and they evade an
+              undead Minotar in a Labrynth. Next the party then faced a series
+              of doors with magical riddles. The final room contained an area
+              with a massive metallic construct with a single eye and huge
+              hulking arms. After defeating it, they met with the Fearless
+              Adventuring Guild of heros.
+            </p>
+          </section>
+
+          <section className="story">
             <h4>Fog Harbor Escapades (2/3/25) with Hunters's GM Assistant</h4>
             <p>
               The party put a daring plan into action, creating undead decoys to
               draw the attention of the guards while they made their way to the
               sewers.
               <span className={toggle}></span>
-            In the confusion, they have a confrontation in the sewers with Kho, a
-              skilled monk, and Zamiya, a winged serpent.
+              In the confusion, they have a confrontation in the sewers with
+              Kho, a skilled monk, and Zamiya, a winged serpent.
               <span className={toggle}></span>
               They are led through the sewers to be ambushed by 3 hags.
             </p>

@@ -112,7 +112,7 @@ kowali kall - Lizard city gold guilded city
 
 Razortooth goes to a main ziggurat
 stole a gold brick from a road - gumption took it
-T'latoan leader in the ziggurat
+T'loatan leader in the ziggurat
 Tepit - Volcaino
 Invaders slaying primodial beasts in the volcano and lizardfolk
 
@@ -276,4 +276,94 @@ poisoned and 20
 
 man studying a sewer - Arte Ion the Druid
 
-6
+# 2/10 game notes
+
+Inspiration!! again!
+
+6 people in robs with mouth open and eyes closed
+dragonborn
+elf
+dwarf
+goblin
+orc
+teifling
+
+going into labrynth
+
+room with lanterns in a room with a bunch of bones in the center
+
+2nd room. mouth on stone door. key hold beneath mouth and number 8 on door. i provide no shade but i cover the ground. a shard from above but i make no sound
+
+i am alive and feel no pain. have but one head and no brain
+
+people worry about me.
+
+sometimes broken and..
+
+no flag. guide is wh..
+
+ship with 2 mates..
+
+do not think to har..
+
+hard to throw, easy to lift hold on to me or ill be sent a drift
+
+
+stone locked door
+
+big room. arcane orb in the center of the room
+
+tower is at 89 hit points
+
+# 2/17 game notes
+
+portends: 6,3,2
+
+Fearless Adventuring Guild
+
+Fighting the heros. all but one is defeated, cornelius. Grey shows up and kills Ane and leaves after scattering the party. Ane gets revived and everyone gets a boon from Miranda. Ane specifically gets wings and horns.
+
+permanent thralls
+
+have to prepare the final lock. 
+
+3 quetisqualtis
+10 veloceraptors
+
+ring of spell storing
+
+flesh holding on to the chain
+
+# 2/24 game notes
+
+portend: 
+
+mass cure wounds in spell storing
+
+carneleous
+
+undulating flesh holding the chains together at the final lock
+
+door covered in moving carvings. emtpy bowl surrounded by visera. with a chec
+
+door abduraion. bowl necor or transmustation. chest abduration. 
+
+offer your essence into the fire. a pound of flesh i desirer. radiant flame lights the way, bear your faith and pray.
+
+pit of seawater
+
+3 doors: gold, blood and visera, same as entrance
+
+stone tablet, angels side by side. 40 feet deep
+
+cornos, elios
+
+25 gump
+20 ane
+14 carlin
+11 cord
+6 theodora
+
+pride
+
+minotar and a sphinx, corneleous, c
