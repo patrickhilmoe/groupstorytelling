@@ -68,8 +68,7 @@ export function MainPage() {
 
           <section className="story">
             <h4>
-              Breaking the Last Lock Part 1 (2/24/25) with Hunters's GM
-              Assistant
+              Breaking the Last Lock Part 1 (2/24/25)
             </h4>
             <p>
               The party flies to the last lock located in the ocean. Traps are
