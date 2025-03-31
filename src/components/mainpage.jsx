@@ -59,6 +59,52 @@ export function MainPage() {
             </button>
           </div>
 
+          <p id="scourge"></p>
+          <br />
+          <br />
+          <br />
+          <br />
+          <h2 className="centerheader">Scourge of the Shiverpine</h2>
+
+          <section className="story">
+            <h4>The Story Begins! (3/31/25) with Hunters's GM Assistant</h4>
+            <p>
+              <span className={toggle}>
+                In the small farming town of Walden, a diverse group of
+                adventurers found themselves drawn together by circumstance.
+                ThikLash, a serpentine humanoid devoted to the goddess Zemiah,
+                spent his time foraging in the forest and preaching to locals
+                about his deity. Meanwhile, Howie, a halfling with dreams of
+                sailing, attempted to recruit crew members at the local tavern,
+                while Zepher demonstrated kindness by giving rabbits to a
+                struggling family. The town's sole tavern became their meeting
+                point, where they also encountered Dane, who had awakened in a
+                nearby ditch, and Willy Ham, a mysterious figure taking notes
+                about the group's activities.
+              </span>
+              Everyone attended a town meeting where Lord Lorenzo Turner and the
+              court wizard Aria Moss revealed a pressing problem - bandits had
+              stolen farming equipment and the now party memebers volunteer to
+              investigate. Seeking to understand their quarry better, the group
+              visited the families of two bandits.
+              <span className={toggle}>
+                They met Betsy Fisher, whose son Oliver had joined the bandits,
+                and she gifted them his old fishing rod in hopes they could
+                convince him to return home. At the Collins family farm, a tense
+                confrontation with the patriarch ended in magical intervention,
+                allowing them to speak with young Charlie about his brother
+                Sean. The children gave the party Sean's stuffed pig, Oinkers,
+                as a reminder of home.
+              </span>
+              That night at the tavern, the group encountered Alex Black, who
+              posed as a writer but revealed himself to be a vampire, managing
+              to feed on Thiklash. The next day, they made their way to
+              Rockstead Farm and they found Danny, a survivor hiding in a
+              wardrobe, and encountered numerous zombies animated by magical
+              glyphs and strange fungal growths.
+            </p>
+          </section>
+
           <p id="harbinger"></p>
           <br />
           <br />
@@ -67,9 +113,20 @@ export function MainPage() {
           <h2 className="centerheader">The Harbinger</h2>
 
           <section className="story">
-            <h4>
-              Breaking the Last Lock Part 1 (2/24/25)
-            </h4>
+            <h4>Breaking the Last Lock Part 2 (3/10/25)</h4>
+            <p>
+              A harrowing battle ensuse between the "Fun-guys" and the Guidance
+              Guys, as well as a demon and a Sphinx. Carlin banishes himself, a
+              guidance guy, and Elizabeth Grey to the Fey wild (Grey makes her
+              way back to the battle). Castor does the same with two bags of
+              holding against 2 members of the Fun-guys. The battle ends with
+              Grey and Quinn Dimention Dooring away with everyone else either
+              banished or defeated.
+            </p>
+          </section>
+
+          <section className="story">
+            <h4>Breaking the Last Lock Part 1 (2/24/25)</h4>
             <p>
               The party flies to the last lock located in the ocean. Traps are
               triggered inside and outside the room. Various members are
@@ -282,6 +339,20 @@ export function MainPage() {
           <br />
           <br />
           <h2 className="centerheader">Crystalpunk</h2>
+
+          <section className="story">
+            <h4>Investigating Missing Person</h4>
+            <p>
+              The crew starts at a bar before taking on their next job and
+              decide to pursue a missing man. They meet with the father and they
+              investigate the son's apartment, afterwards the club he as seen
+              last. After chaos in the club they speak with a woman who saw him
+              last and they are attacked by thugs outside the club. After
+              defeating them, the crew is led to the missing son and
+              successfully extract him from the soul draining facility he was
+              held in.
+            </p>
+          </section>
 
           <section className="story">
             <h4>Death Race (12/2/24)</h4>

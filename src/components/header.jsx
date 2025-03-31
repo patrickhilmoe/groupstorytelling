@@ -36,6 +36,11 @@ export function Header() {
                   The Harbinger
                 </a>
               </li>
+              <li className="nav-item">
+                <a href="#scourge" className="btn ssbtn">
+                  Scourge of the Shiverpine
+                </a>
+              </li>
             </ul>
           </div>
         </div>

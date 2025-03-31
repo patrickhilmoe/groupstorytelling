@@ -146,6 +146,14 @@ body {
   font-weight: bold;
 }
 
+.ssbtn {
+  background-color: #ba667c;
+  margin: 10px;
+  color: #4d4d4d;
+  font-size: 16px;
+  font-weight: bold;
+}
+
 .centerheader {
   text-align: center;
 }

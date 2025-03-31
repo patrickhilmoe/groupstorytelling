@@ -366,4 +366,77 @@ cornos, elios
 
 pride
 
-minotar and a sphinx, corneleous, c
+minotar and a sphinx, corneleous
+
+# game notes
+
+portends: 18
+
+disadvantage on attack, save, ability checks
+
+20 ac
+disadvantage on next attack
+
+3 points of exhaustion
+
+startling level 2 next session. in Waldon
+
+# 3/24 game notes
+Scourge of the Shiverpine
+
+winged mistress, serpent goddess, 
+
+Thiklash
+Howie Durin - halfling with pony tail
+    has "Skuttles the parrot" the owl
+Zepher - blue air genasi
+Dane - dirty dwarf
+Willyham - bald head, beard and mustache
+
+barney fernsby
+
+Waldin farming town. sends goods to Arcadia
+
+Lorenzo Turner - lord of the town - favorite color red
+Mria Moss - court wizard of arcadia - favorite color grey
+
+'The tavern' is a gathering area
+
+robbings, inactive mines, 
+robbed farm - 200 gold of equipment
+bounty 183 gold - proof is worth 100 each
+Cody Gill - leader - family was killed
+    sean - colins family wheat farm and oliver - fisher by the water family
+Besty fisher - oliver likes fighting and gold. fond of fishing, maybe to go to arcadia and travel. fishing rod
+    cleaning shrine, spike moss hurt leg
+Sean - brother charley, derek, 
+    liked riding wagons, and liked people. beaten up stuffed animal pig: oinkers
+
+they used to be a part of the city
+MISSIONS
+rockstead farm - 3 hours away. abandoned farm house full of thugs
+
+undead ransacked the trading post nearby
+
+problems with mines
+
+lumbermill in need of help
+
+amberhill - 'donboss' of the near area: Gumption
+
+Alex Black - sucked Thiklash's blood! he is a vampire!
+
+sarah - tavern owner
+
+Dane tries to sell daggers and gets knocked out by aria.
+
+got to the abandoned barn. dead bodies and vicera spread across the floor. guy in closet upstairs, Danny Reid. 
+
+disadvantage on ability checks
+
+1d6 bardic inspiration
+
+5
+gliph of animate dead and circle of death in the center of the room.
+
+converter - tag
